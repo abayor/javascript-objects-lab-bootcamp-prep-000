@@ -8,9 +8,14 @@ function updateObjectWithKeyAndValue(recipes, key, value){
   return newObj
 }
 function destructivelyDeleteFromObjectByKey(object, key){
-  var obj = { prop: 1}
+ // var obj = { prop: 1}
+  
    newObj['prop']
  // var newObj =
+ 
+ object[key] = value;
+ 
+ //return object
   delete obj.prop
   return obj
   
