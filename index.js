@@ -13,7 +13,7 @@ function destructivelyDeleteFromObjectByKey(object, key){
    newObj['prop']
  // var newObj =
  
- object[key] = value;
+ //object[key] = value;
  
  //return object
  
