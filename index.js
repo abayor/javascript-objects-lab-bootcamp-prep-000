@@ -10,7 +10,7 @@ function updateObjectWithKeyAndValue(recipes, key, value){
 function destructivelyDeleteFromObjectByKey(object, key){
  // 
   
-   newObj['prop']
+ //  newObj['prop']
  // var newObj =
  
  //object[key] = value;
